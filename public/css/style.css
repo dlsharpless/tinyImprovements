@@ -1,0 +1,28 @@
+body {
+    background-color:whitesmoke;
+}
+
+.heading, .main {
+    width: 90%;
+    margin: auto;
+}
+
+hr {
+    border-color: navy;
+}
+
+.buttonDiv {
+    width: 180px;
+    height: 110px;
+    border: solid 1px navy;
+    padding: 40px;
+    display: inline-block;
+}
+
+#kudos {
+    border: solid 1px navy;
+    width: calc(100% - 200px);
+    height: 110px;
+    display: inline-block;
+    margin-left: 15px;
+}
